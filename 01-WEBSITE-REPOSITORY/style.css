@@ -62,3 +62,5 @@ html.viewport-game,body.viewport-game{height:var(--screen-height,100dvh);min-hei
 .opening-sound .opening-word span,.opening-sound .opening-fib{animation:none;opacity:0}.opening-wait .opening-centre{visibility:hidden}.opening-start{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:min(280px,75vw)}.opening-start[hidden]{display:none!important}
 
 .opening-logo{width:100%;margin:0;transform:none;line-height:0;text-shadow:none;white-space:normal}.opening-logo canvas{display:block;width:100%;height:auto}.opening-fib{width:27%;min-width:0;margin:12px auto 0}.opening-centre{width:min(88vw,760px)}
+
+.answer-card .answer-line{padding:0;gap:0}.answer-card .answer-line p{min-width:0;line-height:1.16}.answer-card .answer-voters,.answer-card .answer-owner{margin-left:0}.vote-option{justify-content:center;text-align:center;font-size:clamp(17px,2.1vw,23px);line-height:1.2}.vote-option>span{width:100%}.answer-letter{display:none!important}
