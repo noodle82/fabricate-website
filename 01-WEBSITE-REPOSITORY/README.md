@@ -1,4 +1,4 @@
-# FABRICATE! — testing preview 12
+# FABRICATE! — testing preview 13
 
 Website repository. Free gameplay, Fib reactions and reveal workflow for testing. No real purchase, full premium bank, final legal pages or new release integration is connected. This is not a release candidate.
 
