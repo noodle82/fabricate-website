@@ -1,6 +1,6 @@
-# FABRICATE! — testing preview 15
+# FABRICATE! — testing preview 16
 
-Website repository. Free gameplay, Fib reactions and reveal workflow for testing. No real purchase, full premium bank, final legal pages or new release integration is connected. This is not a release candidate.
+Website repository. Free gameplay, Fib reactions and reveal workflow for testing. Privacy, Terms and Support are included. Real purchases, the full premium bank and release integration remain separate work. This is not a release candidate.
 
 Serve the root folder with a static web server, or GitHub Pages from main / root. No custom domain is included.
 
