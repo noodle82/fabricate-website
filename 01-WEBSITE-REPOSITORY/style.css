@@ -125,3 +125,9 @@ html.typing .hint{padding:8px;font-size:12px;margin:0 0 8px;max-height:90px;over
  html.typing .input-panel .response-column{grid-row:2;max-height:calc(var(--visible-height) * .65);padding:12px}
 }
 @media(prefers-reduced-motion:reduce){.tap-laugh{animation:none}}
+
+.answer-card.zero-leaving{pointer-events:none;will-change:opacity,transform}
+.answer-card{transform-origin:top left}
+@media(prefers-reduced-motion:reduce){.answer-card.zero-leaving{will-change:auto}}
+
+.answer-card.last-answer-wide{grid-column:1/-1}
