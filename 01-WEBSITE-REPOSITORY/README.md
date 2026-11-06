@@ -1,7 +1,7 @@
-# FABRICATE! — testing preview 17
+# FABRICATE! 1.0 — launch candidate 18
 
-Website repository. Free gameplay, Fib reactions and reveal workflow for testing. No real purchase, full premium bank, final legal pages or new release integration is connected. This is not a release candidate.
+Free website. Keep its existing 01-WEBSITE-REPOSITORY folder and root redirect. Fifty questions per mode, no website checkout.
 
-Serve the root folder with a static web server, or GitHub Pages from main / root. No custom domain is included.
+The candidate still requires a signed Codemagic build and physical TestFlight purchase/restore checks before submission. Create the matching non-consumable product in the FABRICATE Apple record. The app downloads free, with an optional one-time Premium upgrade. Apple supplies the localized price. No custom server or purchase-validation service is used.
 
-Keep both repositories on the same testing version. Music starts off; sound effects retain the previous preview behaviour. The opening uses the supplied Fabricate voice, followed by a synchronised wink sound.
+Music starts off. SFX start on unless previously switched off. Names and game state are cleared on exit. Privacy, Terms and Support are bundled.
